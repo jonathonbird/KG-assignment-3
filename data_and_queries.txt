@@ -1,0 +1,330 @@
+input_entities = [
+    {  # Entity 1
+        "sentences": [
+            "The vast grasslands of the African savanna support diverse wildlife.",
+            "African savannas are characterized by their grassy landscapes and scattered trees.",
+            "Elephants, zebras, and giraffes are iconic herbivores of the African savanna.",
+            "The seasonal fires on the savanna play a crucial role in maintaining the balance of the ecosystem.",
+            "Droughts can be a significant challenge for animal and plant life in the African savanna.",
+            "African savannas are found in tropical and subtropical regions.",
+            "The savanna is characterized by alternating wet and dry seasons.",
+            "Acacia trees are a common sight on the African savanna, their flat tops a distinctive shape.",
+            "Tourism focused on wildlife viewing is an important economic activity for communities bordering the savanna.",
+            "Overgrazing by livestock can threaten the delicate balance of the savanna ecosystem.",
+            "Conservation efforts are vital to protect the unique biodiversity of the African savanna.",
+        ],
+        "questions": [
+            "What is the savanna?",
+            "Which animals live in the savanna?",
+            "What is the climate in the savanna?"
+        ]
+         
+    },
+    {  # Entity 2
+        "sentences": [
+            "Animals are multicellular organisms.",
+            "Animals can move independently in their environment.",
+            "Animals have a wide variety of adaptations for survival.",
+            "Animals range in size from microscopic organisms to the enormous blue whale.",
+            "From insects in your backyard to deep-sea creatures, animals inhabit nearly every corner of the Earth.",
+            "Animals can be classified as vertebrates (having a backbone) or invertebrates.",
+            "Animals are heterotrophs, meaning they obtain their food by consuming other organisms.",
+            "Animals can be herbivores (plant-eaters), carnivores (meat-eaters), or omnivores (eating both plants and animals).",
+            "Some animals have specialized feeding structures like sharp teeth, beaks, or filter-feeding mechanisms.",
+            "Animals reproduce either sexually or asexually.",
+            "Animals exhibit diverse reproductive strategies, from laying eggs to giving birth to live young.",
+            "Parental care varies greatly among animal species."
+        ],
+        "questions": [
+            "How large are animals?",
+            "What is a vertebrate?",
+            "What do animals eat?"
+        ]
+    },
+    {  # Entity 3
+        "sentences": [
+            "[[Renaissance art]] emphasized [[classical forms]] and [[humanism]].",
+            "The intricate patterns of [[fractals]] reveal mathematical beauty.",
+            "[[Ancient mythology]] provides insights into the beliefs of early [[civilizations]].",
+            "Renaissance artists drew inspiration from the sculptures and architecture of ancient Greece and Rome.",
+            "The study of classical philosophy and literature was a cornerstone of Renaissance humanism.",
+            "Columns, arches, and symmetry are hallmarks of classical architectural forms.",
+            "Humanism placed emphasis on the value of human potential and individual achievement.",
+            "Renaissance thinkers questioned traditional authorities and focused on reason and observation.",
+            "Humanists believed in the power of education to improve society.",
+            "The self-similar patterns of fractals can be found in natural objects like ferns and snowflakes.",
+            "Fractals are generated through mathematical formulas, revealing the hidden order within seemingly chaotic patterns.",
+            "Fractals have applications in fields ranging from computer graphics to medicine. ",
+            "Greek mythology is filled with stories of gods, heroes, and fantastical creatures.",
+            "Myths often served to explain natural phenomena or provide moral lessons.",
+            "Archaeological discoveries continue to uncover the secrets of ancient civilizations like Egypt and Mesopotamia. "
+        ],
+        "questions": [
+            "Who inspired renaissance artists?",
+            "What is a fractal?",
+            "Who are gods in greek mythology?"
+        ]
+    },
+    {  # Entity 4
+        "sentences": [
+           "The [[economic policies]] of the [[1980s]] had a lasting global impact.",
+           "Name a large [[country]] in [[America]].",
+           "Who was the 22nd president?",
+           "The [[industrial revolution]] dramatically changed societies around the world.",
+           "The deregulation movements of the 1980s led to significant shifts in the banking and telecommunications industries.",
+           "In the United States, the 1980s are often remembered for the Reagan Administration's emphasis on free market principles.",
+           "The fall of the Berlin Wall in 1989 symbolized the end of the Cold War era and opened the path to German reunification.",
+           "Economic globalization accelerated in the 1980s, facilitated by advances in technology and reductions in trade barriers.",
+           "The 22nd president of the United States, Grover Cleveland, served two non-consecutive terms, making him also the 24th president.",
+           "Brazil is the largest country in South America by both area and population, playing a key role in regional politics and economics.",
+           "The 'War on Drugs' policy initiated in the 1980s had profound effects on both domestic and international law enforcement strategies.",
+           "The introduction of neoliberal policies in the 1980s impacted labor markets and social welfare systems worldwide.",
+           "The Chernobyl disaster of 1986 raised global awareness about the potential dangers associated with nuclear power.",
+           "The 1980s saw the emergence of the Internet from a research and military network to the beginnings of the global information system we know today.",
+           "The economic policies of the 1980s, including tax cuts and deregulation, are often debated for their impact on income inequality.",
+           "The space shuttle Challenger disaster in 1986 underscored the risks of space exploration and led to major safety reforms in NASA.",
+           "The adoption of the Single European Act in 1986 was a significant step towards the creation of the European Single Market.",
+           "The 1980s cultural landscape was marked by the rise of digital technology, influencing music, video games, and cinema.",
+           "The environmental movement gained momentum in the 1980s, highlighted by the establishment of Earth Day as a global event for environmental awareness and protection.",
+           "Reaganomics, with its focus on tax cuts and deregulation, was a dominant economic policy of the 1980s.",
+           "The debate over Keynesian economics vs. supply-side economics shaped policy decisions during the 1980s.",
+           "Rising national debt was a key economic issue facing the United States during the 1980s.",
+           "The Cold War cast a long shadow over the geopolitical landscape of the 1980s.",
+           "The development of personal computers and the rise of MTV mark significant cultural shifts in the 1980s.",
+           "Fashion in the 1980s was often characterized by bright colors, big hair, and shoulder pads.",
+           "Brazil is the largest country in South America.",
+           "Canada shares the longest international border in the world with the United States.",
+           "Diverse ecosystems, from the Amazon rainforest to the Andes Mountains, can be found across the countries of America.",
+           "Grover Cleveland is the only president to serve two non-consecutive terms.",
+           "The Louisiana Purchase was a major acquisition of land negotiated during Thomas Jefferson's presidency.",
+           "Abraham Lincoln led the United States through the Civil War.",
+           "The invention of the steam engine was a pivotal moment in the Industrial Revolution. ",
+           "The Industrial Revolution led to mass migration from rural areas to urban centers. ",
+           "New technologies developed during the Industrial Revolution transformed industries like textile production and transportation."
+        ],
+        "questions": [
+            "What are economic issues in the 1980s?",
+            "What are economic policied of the 1980s?",
+            "What are the highest mountains in South America?"
+        ]
+    },
+    {
+    # Entity 5
+    "sentences": [
+       "What is a soft-fleeced animal related to the camel?",  # Alpaca or Llama
+       "What is the chemical symbol for gold?",  # Au
+       "Gold is a precious metal with high conductivity and resistance to corrosion.",
+       "Alpacas are domesticated species of South American camelids, known for their soft wool.",
+       "The llama, a close relative of the alpaca, is also used for its wool and as a pack animal.",
+       "Gold has been used for coinage, jewelry, and other arts throughout recorded history.",
+       "The density of gold is 19.32 grams per cubic centimeter, making it one of the densest elements.",
+       "Alpacas and llamas are part of the Andean culture and economy, playing a significant role in traditional practices.",
+       "Gold mining impacts environmental ecosystems through the release of toxic substances.",
+       "The Incas valued alpacas for their wool and considered them a gift from Pachamama, the earth mother.",
+       "Modern uses of gold include electronics, dentistry, and as an investment in the form of bullion and coins.",
+       "Selective breeding of alpacas has been practiced for thousands of years to produce a variety of wool colors.",
+       "Gold's atomic number is 79, and it is classified as a transition metal in the periodic table.",
+       "Conservation efforts are in place to maintain the genetic diversity and health of domesticated alpaca populations.",
+       "The extraction and processing of gold are energy-intensive and contribute to greenhouse gas emissions.",
+    ],
+        "questions": [
+            "What does a llama eat?",
+            "What is Gold used for?",
+            "What are llamas used for?"
+        ]
+    },{
+    # Entity 6
+    "sentences": [
+       "Deus sive Natura, meaning 'God or Nature', signifies the equivalence of God and Nature.",
+       "This concept suggests that God is not a personal deity but the inherent order and essence of the universe.",
+       "Originating from the philosophy of Baruch Spinoza, Deus sive Natura challenges traditional views of God.",
+       "Spinoza's framework posits that everything that exists is a part of the singular substance, which is God or Nature.",
+       "This perspective emphasizes the unity and interconnectedness of all things within the universe.",
+       "Deus sive Natura implies that God's will is equivalent to the natural laws governing the universe.",
+       "Spinoza’s philosophy promotes a pantheistic view, seeing God in all aspects of the natural world.",
+       "The concept encourages a reverence for nature, seeing it as a manifestation of the divine.",
+       "Deus sive Natura has influenced both theological and scientific thought, bridging spirituality with the natural sciences.",
+       "Critics of this idea argue that it dilutes the concept of a personal, interactive God.",
+       "Supporters find in Deus sive Natura a foundation for environmental ethics and a deeper understanding of our place in the universe.",
+       "The notion has sparked debate regarding the nature of divinity, free will, and the meaning of sanctity.",
+       "Deus sive Natura is considered a cornerstone in the development of modern philosophical naturalism.",
+       "It challenges individuals to find spirituality within the laws and beauty of the natural world, rather than through supernatural beliefs.",
+       "The concept has been explored in various forms of art and literature, reflecting humanity's complex relationship with the divine and the natural."
+    ],
+        "questions": [
+            "What is the principle 'deus size natura'?",
+            "What is a fractal?",
+            "Who are gods in greek mythology?"
+        ]
+    },{
+    # Entity 7
+    "sentences": [
+        "Mars, known as the Red Planet, is the fourth planet from the Sun in our solar system.",
+        "Its distinctive red color is due to iron oxide, or rust, on its surface.",
+        "Mars has the largest volcano in the solar system, Olympus Mons, and a vast canyon, Valles Marineris.",
+        "The planet has two small moons, Phobos and Deimos, believed to be captured asteroids.",
+        "Evidence suggests that Mars once had liquid water on its surface, indicating the potential for past life.",
+        "Mars experiences dust storms, which can cover the entire planet and last for months.",
+        "The thin atmosphere of Mars, composed mostly of carbon dioxide, is not suitable for human life.",
+        "Mars has polar ice caps that contain frozen water and carbon dioxide, changing size with the seasons.",
+        "NASA's rovers, such as Curiosity and Perseverance, have been exploring Mars to study its climate and geology.",
+        "The concept of terraforming Mars has been proposed as a way to make the planet habitable for humans.",
+        "Mars' gravity is about 38% of Earth's, affecting the potential for human muscle and bone density on the planet.",
+        "Scientists believe that studying Mars can reveal much about the early history of our solar system.",
+        "There is ongoing research into the possibility of past or present microbial life on Mars.",
+        "Human missions to Mars are being planned, with the goal of sending astronauts within the next few decades.",
+        "The exploration of Mars has been a significant part of popular culture, inspiring numerous works of science fiction."
+    ],
+        "questions": [
+            "What is the atmosphere like on Mars?",
+            "Is there life on Mars?",
+            "Does Mars have moons?"
+        ]
+},{
+    # Entity 8
+    "sentences": [
+        "Pizza dough is a foundational element of pizza, made from flour, water, yeast, and salt.",
+        "The type of flour used, such as all-purpose or bread flour, can affect the texture and flavor of the dough.",
+        "Yeast is essential for the fermentation process, which allows the dough to rise and develop its characteristic flavor.",
+        "Kneading the dough is crucial for developing gluten, which gives the dough its elasticity and chewiness.",
+        "Pizza dough can be prepared in advance and stored in the refrigerator to enhance its flavor through slow fermentation.",
+        "The hydration ratio, or the amount of water relative to flour, is key to determining the dough's texture.",
+        "Some pizza dough recipes include olive oil or sugar to enrich the flavor and color of the crust.",
+        "Proper proofing, or allowing the dough to rise, is vital for achieving the desired volume and lightness.",
+        "The thickness of the rolled-out dough can vary depending on the style of pizza, from thin crust to deep-dish.",
+        "Baking pizza dough at a high temperature is important for creating a crisp exterior and soft interior.",
+        "Sourdough pizza dough, made from a natural starter, offers a tangy flavor and rustic texture.",
+        "The Neapolitan pizza dough, recognized for its simplicity and high-quality ingredients, adheres to strict guidelines for authenticity.",
+        "Experimenting with different types of flour, such as whole wheat or gluten-free alternatives, can produce varied dough characteristics.",
+        "The resting period after kneading and before shaping allows the gluten network to relax, making the dough easier to work with.",
+        "The method of stretching the dough, whether by hand or rolling pin, affects the final texture and airiness of the crust."
+    ],
+        "questions": [
+            "What goes on a pizza?",
+            "How do you make pizza dough?",
+            "What are ingredients for pizza dough?"
+        ]
+},{
+    # Entity 9
+    "sentences": [
+        "Variational Autoencoders (VAEs) are a type of generative model in machine learning.",
+        "They are used to generate new data points that are similar to the input data.",
+        "VAEs consist of an encoder, a decoder, and a loss function that measures reconstruction error and the Kullback-Leibler divergence.",
+        "The encoder converts input data into a smaller, dense representation in a latent space.",
+        "The decoder then reconstructs the input data from this latent representation.",
+        "VAEs are particularly known for their application in generating realistic images, texts, and other types of data.",
+        "They work by learning a distribution of the input data in the latent space, allowing for the generation of new data points.",
+        "One key feature of VAEs is their ability to perform dimensionality reduction, similar to PCA (Principal Component Analysis).",
+        "The Kullback-Leibler divergence in the loss function encourages the latent space to follow a probabilistic distribution, typically a Gaussian.",
+        "VAEs have been applied in various fields, including drug discovery, anomaly detection, and image super-resolution.",
+        "They can also be used for semi-supervised learning, where the model learns from both labeled and unlabeled data.",
+        "Unlike traditional autoencoders, VAEs can generate new data points, making them more versatile for tasks like image synthesis.",
+        "The variational approach differentiates VAEs from other generative models by introducing a probabilistic interpretation of the encoder’s output.",
+        "Training VAEs involves optimizing the balance between the reconstruction fidelity and the regularization of the latent space.",
+        "The flexibility and efficiency of VAEs make them a powerful tool in the arsenal of machine learning practitioners and researchers."
+    ],
+        "questions": [
+            "What is a Variational Autoencoder?",
+            "Which loss function do you use for Variational Autoencoders?",
+            "Which concepts do VAEs resemble?"
+        ]
+},{
+    # Entity 10
+    "sentences": [
+       "Gubernatorial woman",
+       "Who was the most sadistic figure in history?"
+       "Gubernatorial woman refers to a female governor or a woman holding the office of a governor.",
+       "Who was the most sadistic figure in history? This question explores individuals known for extreme cruelty or brutality throughout history.",
+       "Female governors have played significant roles in the political landscapes of their regions, breaking gender barriers and setting precedents.",
+       "Historical figures associated with sadism often include tyrants, dictators, and leaders noted for their ruthless policies or acts of violence.",
+       "The rise of women in gubernatorial roles highlights the progress in gender equality within political leadership positions.",
+       "Sadistic historical figures are frequently subjects of psychological studies to understand the motivations behind their actions.",
+       "Gubernatorial women may also advocate for women's rights and work towards inclusive policies in their governance.",
+       "Debates about the most sadistic figure in history involve considerations of context, power dynamics, and the impact of their actions over time.",
+       "In recent years, there has been an increase in the number of women serving as governors across the world, reflecting a shift in societal norms.",
+       "The legacy of sadistic figures in history is often marked by trauma, cultural memory, and the moral lessons drawn from their reigns.",
+       "Female governors often face unique challenges and scrutiny in their roles, navigating both political and societal expectations.",
+       "Studying sadistic figures in history can provide insights into the darker aspects of human nature and the conditions that enable such behavior.",
+       "Gubernatorial women are often pioneers in their fields, setting examples for future generations of female leaders.",
+       "The examination of historical cruelty requires a nuanced understanding of historical context, individual psychology, and societal conditions.",
+       "The achievements of women in gubernatorial positions contribute to the broader dialogue on diversity and representation in leadership."
+
+    ],
+        "questions":[]
+},{
+    # Entity 11
+    "sentences": [
+       "The water buffalo (Bubalus bubalis) is a large bovid originating from South Asia, Southeast Asia, and China.",
+       "Domesticated for thousands of years, water buffaloes are critical to agriculture in regions across Asia for plowing fields and irrigation.",
+       "There are two main types of water buffalo: the river buffalo of South Asia and the swamp buffalo of Southeast Asia and China.",
+       "Water buffaloes are known for their strength and ability to work in wet, marshy lands where other draft animals cannot.",
+       "Apart from agricultural work, water buffaloes are also raised for their milk, meat, and hides.",
+       "Water buffalo milk is a key ingredient in traditional cheeses in some countries, including mozzarella in Italy.",
+       "These animals have a semi-aquatic lifestyle, spending a lot of their time submerged in water to cool off and avoid pests.",
+       "Water buffaloes play a significant role in the ecosystems they inhabit, contributing to the biodiversity of wetlands.",
+       "The global population of water buffaloes is estimated to be over 200 million, with a significant number in India and China.",
+       "Conservation efforts are in place for wild populations of water buffalo, which are threatened by habitat loss and hunting.",
+       "Water buffaloes have a social structure, typically forming herds led by a dominant female.",
+       "The gestation period for a water buffalo is about 10 to 11 months, with calves being born with a distinctive reddish-brown coat.",
+       "They are known for their large, crescent-shaped horns, which can extend up to 2 meters in some individuals.",
+       "Water buffaloes have been introduced to other parts of the world, including Australia, for farming and weed control.",
+       "Cultural and religious significance of the water buffalo varies across different societies, symbolizing strength, agriculture, and prosperity."
+    ],
+        "questions": [
+            "Where does the water buffalo originate from?",
+            "What is the water buffalo used for?",
+            "What does the water buffalo signify?"
+        ]
+},{
+    # Entity 12
+    "sentences": [
+        "The Marshall Islands is a country located in the central Pacific Ocean, part of the larger island group of Micronesia.",
+        "It consists of 29 atolls and 5 individual islands, totaling over 1,000 individual islets and islands.",
+        "The capital of the Marshall Islands is Majuro, which also serves as the main commercial and administrative center.",
+        "The Marshall Islands gained independence from the United States in 1986 under the Compact of Free Association.",
+        "The islands were significantly impacted by nuclear testing conducted by the United States during the 1940s and 1950s.",
+        "The Marshall Islands is known for its vibrant marine life and is a popular destination for scuba diving and snorkeling.",
+        "Due to its low elevation, the Marshall Islands is highly vulnerable to the effects of climate change, including sea level rise.",
+        "The Marshallese culture is rich in maritime tradition, reflecting the inhabitants' deep connection to the ocean and navigation skills.",
+        "The economy of the Marshall Islands is supported by the use of its large ship registry and financial assistance from the United States.",
+        "Marshallese is the official language, with English also widely spoken, especially in official settings and education.",
+        "The Bikini Atoll, part of the Marshall Islands, is a UNESCO World Heritage Site, recognized for its underwater nuclear test sites.",
+        "The Marshall Islands has taken a proactive stance in international forums on issues related to nuclear disarmament and climate change.",
+        "Fishing and coconut processing represent important parts of the local economy, alongside growing tourism.",
+        "The traditional navigation techniques of the Marshallese, using stick charts and star maps, have gained international recognition.",
+        "The Marshall Islands faces challenges such as limited natural resources, reliance on imports, and the need for sustainable development."
+    ],
+        "questions": [
+            "Where are the Marshall Islands?",
+            "Why are the Marshall Islands significant?",
+            "What does the economy of the Marshall Islands rely on?"
+        ]
+},{
+    # Entity 13
+    "sentences": [
+        "Tristan da Cunha is the most remote inhabited archipelago in the world, located in the South Atlantic Ocean.",
+        "It is part of the British Overseas Territory, which also includes Saint Helena and Ascension Island.",
+        "The main island of the archipelago is also named Tristan da Cunha and is home to a small population.",
+        "Tristan da Cunha is known for its unique ecosystem, with many species that are endemic to the island.",
+        "The island is accessible only by sea, with trips from South Africa taking about six days.",
+        "The economy of Tristan da Cunha is based on fishing, agriculture, and the sale of postage stamps to collectors.",
+        "Due to its remote location, the community on Tristan da Cunha is largely self-sufficient.",
+        "The archipelago was discovered in 1506 by Portuguese explorer Tristão da Cunha, but it was not permanently settled until the 19th century.",
+        "Tristan da Cunha has an active volcano, Queen Mary's Peak, which last erupted in 1961, leading to the temporary evacuation of the island's inhabitants.",
+        "The islanders of Tristan da Cunha have a unique dialect, which is a blend of English, Dutch, and other languages.",
+        "Conservation efforts are in place to protect the island's wildlife, including the Tristan albatross and the rockhopper penguins.",
+        "Tourism is limited due to the island's remote location, but it offers unique opportunities for eco-tourism and adventure travel.",
+        "Tristan da Cunha's isolation has made it a subject of interest for researchers studying biodiversity and isolation's effects on communities.",
+        "The island has no airport, making the sea the only way to access this remote community.",
+        "The residents of Tristan da Cunha live in the settlement of Edinburgh of the Seven Seas, often referred to as the most remote settlement in the world."
+    ], 
+        "questions": [
+            "Where is Tristan da Cunha?",
+            "What is Tristan da Cunha?",
+            "What does the economy of Tristan da Cunha rely on?"
+        ]
+}
+
+
+]
+

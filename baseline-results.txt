@@ -1,0 +1,378 @@
+What is the savanna?
+💭 Reformulated questions:  What is the savanna and what type of environment is it?
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'd0dccd6d89aa4139b52d54410e78e4c5', '_collection_name': 'ontologies'}),
+ 0.6824817626704107)
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'd0dccd6d89aa4139b52d54410e78e4c5', '_collection_name': 'ontologies'}),
+ 0.6824817626704107)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/savannas/n (https://conceptnet.io//c/en/savannas/n)
+
+Savannas are a type of savanna. Savanna is related to savanna. Savanna is a type of grassland. Nature is related to outdoors. Community is a type of group.
+Which animals live in the savanna?
+💭 Reformulated questions:  What types of animals can be found in the savanna?
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'f069a0d1a69c49eaaa4f5a65732e97c1', '_collection_name': 'ontologies'}),
+ 0.6281285154220652)
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'f069a0d1a69c49eaaa4f5a65732e97c1', '_collection_name': 'ontologies'}),
+ 0.6281285154220652)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/savannas/n (https://conceptnet.io//c/en/savannas/n)
+
+Savannas are related to savanna. Savannas are a type of savanna. Savanna is a type of grassland. Some of these animals are carnivores. Birds and reptiles are vertebrates.
+What is the climate in the savanna?
+💭 Reformulated questions:  What is the climate like in the savanna?
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'f069a0d1a69c49eaaa4f5a65732e97c1', '_collection_name': 'ontologies'}),
+ 0.6205163322226352)
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'f069a0d1a69c49eaaa4f5a65732e97c1', '_collection_name': 'ontologies'}),
+ 0.6205163322226352)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/savannas/n (https://conceptnet.io//c/en/savannas/n)
+
+Savannas are related to savanna. Savannas are a type of savanna. Savanna is a type of grassland. Synoptic climatology has a context in sciences. Shade is a synonym of shadow.
+How large are animals?
+💭 Reformulated questions:  What is the average size of animals in the savanna?
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'f069a0d1a69c49eaaa4f5a65732e97c1', '_collection_name': 'ontologies'}),
+ 0.625762002292386)
+(Document(page_content='https://conceptnet.io//c/en/savannas/n', metadata={'sub': 'savannas', 'uri': 'https://conceptnet.io//c/en/savannas/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'savanna', 'type': 'https://conceptnet.io//c/en/savanna', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'f069a0d1a69c49eaaa4f5a65732e97c1', '_collection_name': 'ontologies'}),
+ 0.625762002292386)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/savannas/n (https://conceptnet.io//c/en/savannas/n)
+
+Savannas are related to savanna.
+What is a vertebrate?
+💭 Reformulated questions:  What is the definition of a vertebrate?
+(Document(page_content='https://conceptnet.io//c/en/vertebrates', metadata={'sub': 'vertebrates', 'uri': 'https://conceptnet.io//c/en/vertebrates', 'pred': 'https://conceptnet.io//r/HasProperty', 'predicate': 'https://conceptnet.io//r/HasProperty', 'obj': 'some animals', 'type': 'https://conceptnet.io//c/en/animals', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Vertebrates have spines', lang='en'), '_id': '5227d35e01d6404aa7c05e4605e35350', '_collection_name': 'ontologies'}),
+ 0.7481709220585625)
+(Document(page_content='https://conceptnet.io//c/en/vertebrates', metadata={'sub': 'vertebrates', 'uri': 'https://conceptnet.io//c/en/vertebrates', 'pred': 'https://conceptnet.io//r/HasProperty', 'predicate': 'https://conceptnet.io//r/HasProperty', 'obj': 'some animals', 'type': 'https://conceptnet.io//c/en/animals', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Vertebrates have spines', lang='en'), '_id': '5227d35e01d6404aa7c05e4605e35350', '_collection_name': 'ontologies'}),
+ 0.7481709220585625)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/vertebrates (https://conceptnet.io//c/en/vertebrates)
+
+Vertebrates are a type of animal that have spines.
+What do animals eat?
+💭 Reformulated questions:  What is the diet of animals?
+(Document(page_content='https://conceptnet.io//c/en/of_animals', metadata={'sub': 'some of these animals', 'uri': 'https://conceptnet.io//c/en/of_animals', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'carnivores', 'type': 'https://conceptnet.io//c/en/carnivores', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('some of these animals are carnivores', lang='en'), '_id': '5a5308b1d79c4d988aec91927a3b400b', '_collection_name': 'ontologies'}),
+ 0.6557733502971945)
+(Document(page_content='https://conceptnet.io//c/en/of_animals', metadata={'sub': 'some of these animals', 'uri': 'https://conceptnet.io//c/en/of_animals', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'carnivores', 'type': 'https://conceptnet.io//c/en/carnivores', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('some of these animals are carnivores', lang='en'), '_id': '5a5308b1d79c4d988aec91927a3b400b', '_collection_name': 'ontologies'}),
+ 0.6557733502971945)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/of_animals (https://conceptnet.io//c/en/of_animals)
+
+Some animals are carnivores.
+Animals can sense fear.
+Some animals are capable of sensing danger.
+Animals have muscles.
+Animals have bones.
+Who inspired renaissance artists?
+💭 Reformulated questions:  Who were the inspirations for renaissance artists?
+(Document(page_content='https://conceptnet.io//c/en/renaissance/n/wn/act', metadata={'sub': 'Renaissance', 'uri': 'https://conceptnet.io//c/en/renaissance/n/wn/act', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'rebirth', 'type': 'https://conceptnet.io//c/en/rebirth/n/wn/act', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Renaissance is a synonym of rebirth', lang='en'), '_id': '6588038734134e10b4fe47acf98a931c', '_collection_name': 'ontologies'}),
+ 0.5784292856469174)
+(Document(page_content='https://conceptnet.io//c/en/renaissance/n/wn/act', metadata={'sub': 'Renaissance', 'uri': 'https://conceptnet.io//c/en/renaissance/n/wn/act', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'rebirth', 'type': 'https://conceptnet.io//c/en/rebirth/n/wn/act', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Renaissance is a synonym of rebirth', lang='en'), '_id': '6588038734134e10b4fe47acf98a931c', '_collection_name': 'ontologies'}),
+ 0.5784292856469174)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/renaissance/n/wn/act (https://conceptnet.io//c/en/renaissance/n/wn/act)
+
+Artists are capable of painting portraits and letter signs, as well as coating a canvas with paint. They are also considered crazy and can be found at gallery openings.
+What is a fractal?
+💭 Reformulated questions:  Can you explain what a fractal is?
+(Document(page_content='https://conceptnet.io//c/en/fractals/n', metadata={'sub': 'fractals', 'uri': 'https://conceptnet.io//c/en/fractals/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'fractal', 'type': 'https://conceptnet.io//c/en/fractal', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '838ea50b8a8649bfbd9f5326cbecdcfa', '_collection_name': 'ontologies'}),
+ 0.7466395335872522)
+(Document(page_content='https://conceptnet.io//c/en/fractals/n', metadata={'sub': 'fractals', 'uri': 'https://conceptnet.io//c/en/fractals/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'fractal', 'type': 'https://conceptnet.io//c/en/fractal', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '838ea50b8a8649bfbd9f5326cbecdcfa', '_collection_name': 'ontologies'}),
+ 0.7466395335872522)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/fractals/n (https://conceptnet.io//c/en/fractals/n)
+
+A fractal is a type of fractal. Elements is a type of weather. Variational is derived from variation. Wallop is a synonym of impact.
+Who are gods in greek mythology?
+💭 Reformulated questions:  Who are the gods in Greek mythology?
+(Document(page_content='https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', metadata={'sub': 'Parnassus', 'uri': 'https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Greece', 'type': 'https://conceptnet.io//c/en/greece/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Parnassus is a part of Greece', lang='en'), '_id': 'd9192b08a36a4efc92ca9666f1725be9', '_collection_name': 'ontologies'}),
+ 0.7085256502244948)
+(Document(page_content='https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', metadata={'sub': 'Parnassus', 'uri': 'https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Greece', 'type': 'https://conceptnet.io//c/en/greece/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Parnassus is a part of Greece', lang='en'), '_id': 'd9192b08a36a4efc92ca9666f1725be9', '_collection_name': 'ontologies'}),
+ 0.7085256502244948)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology (https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology)
+
+Parnassus is a part of Greece.
+Amazon is a type of mythical being.
+Greek deity is a type of deity.
+Mythology is used in the context of mythology.
+Annwfn is used in the context of mythology.
+What are economic issues in the 1980s?
+💭 Reformulated questions:  What were some economic issues in the 1980s?
+(Document(page_content='https://conceptnet.io//c/en/reaganomics', metadata={'sub': 'reaganomics', 'uri': 'https://conceptnet.io//c/en/reaganomics', 'pred': 'https://conceptnet.io//r/DerivedFrom', 'predicate': 'https://conceptnet.io//r/DerivedFrom', 'obj': 'nomics', 'type': 'https://conceptnet.io//c/en/nomics', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '7ad4b1be34cb4311ac9bad615fd26cab', '_collection_name': 'ontologies'}),
+ 0.6217228756400276)
+(Document(page_content='https://conceptnet.io//c/en/reaganomics', metadata={'sub': 'reaganomics', 'uri': 'https://conceptnet.io//c/en/reaganomics', 'pred': 'https://conceptnet.io//r/DerivedFrom', 'predicate': 'https://conceptnet.io//r/DerivedFrom', 'obj': 'nomics', 'type': 'https://conceptnet.io//c/en/nomics', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '7ad4b1be34cb4311ac9bad615fd26cab', '_collection_name': 'ontologies'}),
+ 0.6217228756400276)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/reaganomics (https://conceptnet.io//c/en/reaganomics)
+
+Reaganomics is derived from the concept of neoliberalism, which is a type of economics associated with the policies of Ronald Reagan.
+What are economic policied of the 1980s?
+💭 Reformulated questions:  What were the economic policies of the 1980s?
+(Document(page_content='https://conceptnet.io//c/en/reaganomics', metadata={'sub': 'reaganomics', 'uri': 'https://conceptnet.io//c/en/reaganomics', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'neoliberalism', 'type': 'https://conceptnet.io//c/en/neoliberalism/n', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '4e230910830f4a1391fdee9b03e50d7b', '_collection_name': 'ontologies'}),
+ 0.6317021523519195)
+(Document(page_content='https://conceptnet.io//c/en/reaganomics', metadata={'sub': 'reaganomics', 'uri': 'https://conceptnet.io//c/en/reaganomics', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'neoliberalism', 'type': 'https://conceptnet.io//c/en/neoliberalism/n', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '4e230910830f4a1391fdee9b03e50d7b', '_collection_name': 'ontologies'}),
+ 0.6317021523519195)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/reaganomics (https://conceptnet.io//c/en/reaganomics)
+
+Reaganomics is a type of neoliberalism, derived from the concept of nomics and economics, and derived from the ideas of Reagan.
+What are the highest mountains in South America?
+💭 Reformulated questions:  What are the highest mountains in South America?
+(Document(page_content='https://conceptnet.io//c/en/mountains', metadata={'sub': 'the mountains', 'uri': 'https://conceptnet.io//c/en/mountains', 'pred': 'https://conceptnet.io//r/HasProperty', 'predicate': 'https://conceptnet.io//r/HasProperty', 'obj': 'very large', 'type': 'https://conceptnet.io//c/en/very_large', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('mountains are very large', lang='en'), '_id': 'ffe930e77ada49b892c44cee423f95b5', '_collection_name': 'ontologies'}),
+ 0.5621907802827397)
+(Document(page_content='https://conceptnet.io//c/en/mountains', metadata={'sub': 'the mountains', 'uri': 'https://conceptnet.io//c/en/mountains', 'pred': 'https://conceptnet.io//r/HasProperty', 'predicate': 'https://conceptnet.io//r/HasProperty', 'obj': 'very large', 'type': 'https://conceptnet.io//c/en/very_large', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('mountains are very large', lang='en'), '_id': 'ffe930e77ada49b892c44cee423f95b5', '_collection_name': 'ontologies'}),
+ 0.5621907802827397)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/mountains (https://conceptnet.io//c/en/mountains)
+
+Mountains are very large.
+What does a llama eat?
+💭 Reformulated questions:  What is the diet of a llama?
+(Document(page_content='https://conceptnet.io//c/en/domestic_llama/n/wn/animal', metadata={'sub': 'domestic llama', 'uri': 'https://conceptnet.io//c/en/domestic_llama/n/wn/animal', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'llama', 'type': 'https://conceptnet.io//c/en/llama/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('domestic llama is a type of llama', lang='en'), '_id': '89960ce744d24714a1155c1855325017', '_collection_name': 'ontologies'}),
+ 0.6547763668629354)
+(Document(page_content='https://conceptnet.io//c/en/domestic_llama/n/wn/animal', metadata={'sub': 'domestic llama', 'uri': 'https://conceptnet.io//c/en/domestic_llama/n/wn/animal', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'llama', 'type': 'https://conceptnet.io//c/en/llama/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('domestic llama is a type of llama', lang='en'), '_id': '89960ce744d24714a1155c1855325017', '_collection_name': 'ontologies'}),
+ 0.6547763668629354)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/domestic_llama/n/wn/animal (https://conceptnet.io//c/en/domestic_llama/n/wn/animal)
+
+Llamas are domesticated animals. They have a nasty habit of spitting.
+What is Gold used for?
+💭 Reformulated questions:  What is the purpose of gold?
+(Document(page_content='https://conceptnet.io//c/en/gold', metadata={'sub': 'gold', 'uri': 'https://conceptnet.io//c/en/gold', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'a precious metal', 'type': 'https://conceptnet.io//c/en/precious_metal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('gold is related to precious', lang='en'), '_id': '53aa2fba62c640f1a8a6383d17c480d0', '_collection_name': 'ontologies'}),
+ 0.6381122701819781)
+(Document(page_content='https://conceptnet.io//c/en/gold', metadata={'sub': 'gold', 'uri': 'https://conceptnet.io//c/en/gold', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'a precious metal', 'type': 'https://conceptnet.io//c/en/precious_metal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('gold is related to precious', lang='en'), '_id': '53aa2fba62c640f1a8a6383d17c480d0', '_collection_name': 'ontologies'}),
+ 0.6381122701819781)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/gold (https://conceptnet.io//c/en/gold)
+
+Gold is a precious metal. It is also a soft metal and is related to other precious metals. It is a type of metal.
+What are llamas used for?
+💭 Reformulated questions:  What is the purpose of llamas?
+(Document(page_content='https://conceptnet.io//c/en/llamas', metadata={'sub': 'Llamas', 'uri': 'https://conceptnet.io//c/en/llamas', 'pred': 'https://conceptnet.io//r/HasA', 'predicate': 'https://conceptnet.io//r/HasA', 'obj': 'a nasty habit of spitting', 'type': 'https://conceptnet.io//c/en/nasty_habit_of_spitting', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Llamas have a nasty habit of spitting', lang='en'), '_id': '1ac4ca4c1dfc476a95cb0b423bf0ef54', '_collection_name': 'ontologies'}),
+ 0.7042904521017934)
+(Document(page_content='https://conceptnet.io//c/en/llamas', metadata={'sub': 'Llamas', 'uri': 'https://conceptnet.io//c/en/llamas', 'pred': 'https://conceptnet.io//r/HasA', 'predicate': 'https://conceptnet.io//r/HasA', 'obj': 'a nasty habit of spitting', 'type': 'https://conceptnet.io//c/en/nasty_habit_of_spitting', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Llamas have a nasty habit of spitting', lang='en'), '_id': '1ac4ca4c1dfc476a95cb0b423bf0ef54', '_collection_name': 'ontologies'}),
+ 0.7042904521017934)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/llamas (https://conceptnet.io//c/en/llamas)
+
+Llamas are domesticated animals.
+What is the principle 'deus size natura'?
+💭 Reformulated questions:  What is the meaning of the principle 'deus size natura'?
+(Document(page_content='https://conceptnet.io//c/en/neo_druidism/n', metadata={'sub': 'neo druidism', 'uri': 'https://conceptnet.io//c/en/neo_druidism/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'philosophical', 'type': 'https://conceptnet.io//c/en/philosophical', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'ee68d41450484b71928ed4f2c1d7a4d2', '_collection_name': 'ontologies'}),
+ 0.6366679537779945)
+(Document(page_content='https://conceptnet.io//c/en/neo_druidism/n', metadata={'sub': 'neo druidism', 'uri': 'https://conceptnet.io//c/en/neo_druidism/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'philosophical', 'type': 'https://conceptnet.io//c/en/philosophical', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'ee68d41450484b71928ed4f2c1d7a4d2', '_collection_name': 'ontologies'}),
+ 0.6366679537779945)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/neo_druidism/n (https://conceptnet.io//c/en/neo_druidism/n)
+
+Neo Druidism is a philosophical concept related to the law of double negation, which implies that the god father is considered to be allowing the decree absolute, in accordance with moral principles.
+What is a fractal?
+💭 Reformulated questions:  What is the definition of a fractal?
+(Document(page_content='https://conceptnet.io//c/en/fractals/n', metadata={'sub': 'fractals', 'uri': 'https://conceptnet.io//c/en/fractals/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'fractal', 'type': 'https://conceptnet.io//c/en/fractal', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '377e628a08ba457d8e949693522e9afd', '_collection_name': 'ontologies'}),
+ 0.7360226100186705)
+(Document(page_content='https://conceptnet.io//c/en/fractals/n', metadata={'sub': 'fractals', 'uri': 'https://conceptnet.io//c/en/fractals/n', 'pred': 'https://conceptnet.io//r/RelatedTo', 'predicate': 'https://conceptnet.io//r/RelatedTo', 'obj': 'fractal', 'type': 'https://conceptnet.io//c/en/fractal', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '377e628a08ba457d8e949693522e9afd', '_collection_name': 'ontologies'}),
+ 0.7360226100186705)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/fractals/n (https://conceptnet.io//c/en/fractals/n)
+
+A fractal is related to the concept of a fractal. Variationality is derived from the concept of variational. Zoomorphism is related to the characteristics and figures.
+Who are gods in greek mythology?
+💭 Reformulated questions:  Who are the gods in Greek mythology?
+(Document(page_content='https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', metadata={'sub': 'Parnassus', 'uri': 'https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Greece', 'type': 'https://conceptnet.io//c/en/greece/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Parnassus is a part of Greece', lang='en'), '_id': 'd9192b08a36a4efc92ca9666f1725be9', '_collection_name': 'ontologies'}),
+ 0.7085256502244948)
+(Document(page_content='https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', metadata={'sub': 'Parnassus', 'uri': 'https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Greece', 'type': 'https://conceptnet.io//c/en/greece/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Parnassus is a part of Greece', lang='en'), '_id': 'd9192b08a36a4efc92ca9666f1725be9', '_collection_name': 'ontologies'}),
+ 0.7085256502244948)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology (https://conceptnet.io//c/en/parnassus/n/wn/greek_mythology)
+
+Parnassus is a part of Greece.
+Amazon is a type of mythical being.
+Greek deity is a type of deity.
+Mythology is used in the context of mythology.
+Annwfn is used in the context of mythology.
+What is the atmosphere like on Mars?
+💭 Reformulated questions:  What is the atmosphere like on Mars?
+(Document(page_content='https://conceptnet.io//c/en/mars', metadata={'sub': 'Mars', 'uri': 'https://conceptnet.io//c/en/mars', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'planet', 'type': 'https://conceptnet.io//c/en/planet', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Mars is a planet', lang='en'), '_id': 'ad9613e740ca4391a0e4d6f4b1502769', '_collection_name': 'ontologies'}),
+ 0.6047466218392612)
+(Document(page_content='https://conceptnet.io//c/en/mars', metadata={'sub': 'Mars', 'uri': 'https://conceptnet.io//c/en/mars', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'planet', 'type': 'https://conceptnet.io//c/en/planet', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Mars is a planet', lang='en'), '_id': 'ad9613e740ca4391a0e4d6f4b1502769', '_collection_name': 'ontologies'}),
+ 0.6047466218392612)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/mars (https://conceptnet.io//c/en/mars)
+
+Mars is a planet.
+Is there life on Mars?
+💭 Reformulated questions:  What is the possibility of life on Mars?
+(Document(page_content='https://conceptnet.io//c/en/mars', metadata={'sub': 'mars', 'uri': 'https://conceptnet.io//c/en/mars', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'planet', 'type': 'https://conceptnet.io//c/en/planet', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Mars is a planet', lang='en'), '_id': '8448d30550204052a3b8701c1b309173', '_collection_name': 'ontologies'}),
+ 0.6220474600334637)
+(Document(page_content='https://conceptnet.io//c/en/mars', metadata={'sub': 'mars', 'uri': 'https://conceptnet.io//c/en/mars', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'planet', 'type': 'https://conceptnet.io//c/en/planet', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Mars is a planet', lang='en'), '_id': '8448d30550204052a3b8701c1b309173', '_collection_name': 'ontologies'}),
+ 0.6220474600334637)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/mars (https://conceptnet.io//c/en/mars)
+
+Mars is a planet.
+Does Mars have moons?
+💭 Reformulated questions:  What are the moons of Mars?
+(Document(page_content='https://conceptnet.io//c/en/moons', metadata={'sub': 'moons', 'uri': 'https://conceptnet.io//c/en/moons', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'moon', 'type': 'https://conceptnet.io//c/en/moon/n', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'ea87d597ccd24a108c20ba9eb39a28b4', '_collection_name': 'ontologies'}),
+ 0.6742928894840503)
+(Document(page_content='https://conceptnet.io//c/en/moons', metadata={'sub': 'moons', 'uri': 'https://conceptnet.io//c/en/moons', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'moon', 'type': 'https://conceptnet.io//c/en/moon/n', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'ea87d597ccd24a108c20ba9eb39a28b4', '_collection_name': 'ontologies'}),
+ 0.6742928894840503)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/moons (https://conceptnet.io//c/en/moons)
+
+Moons are related to the moon and are a form of the moon.
+What goes on a pizza?
+💭 Reformulated questions:  What are common toppings for pizza?
+(Document(page_content='https://conceptnet.io//c/en/pizza', metadata={'sub': 'a pizza', 'uri': 'https://conceptnet.io//c/en/pizza', 'pred': 'https://conceptnet.io//r/HasProperty', 'predicate': 'https://conceptnet.io//r/HasProperty', 'obj': 'baked in an oven', 'type': 'https://conceptnet.io//c/en/baked_in_oven', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Pizza is baked in an oven', lang='en'), '_id': '88134509b0d94c849802b79cae6bafb1', '_collection_name': 'ontologies'}),
+ 0.6443005516850531)
+(Document(page_content='https://conceptnet.io//c/en/pizza', metadata={'sub': 'a pizza', 'uri': 'https://conceptnet.io//c/en/pizza', 'pred': 'https://conceptnet.io//r/HasProperty', 'predicate': 'https://conceptnet.io//r/HasProperty', 'obj': 'baked in an oven', 'type': 'https://conceptnet.io//c/en/baked_in_oven', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Pizza is baked in an oven', lang='en'), '_id': '88134509b0d94c849802b79cae6bafb1', '_collection_name': 'ontologies'}),
+ 0.6443005516850531)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/pizza (https://conceptnet.io//c/en/pizza)
+
+Pizza is a disc-shaped food item that is baked in an oven and can be found in the oven.
+How do you make pizza dough?
+💭 Reformulated questions:  What is the process for making pizza dough?
+(Document(page_content='https://conceptnet.io//c/en/making_bread', metadata={'sub': 'making bread', 'uri': 'https://conceptnet.io//c/en/making_bread', 'pred': 'https://conceptnet.io//r/UsedFor', 'predicate': 'https://conceptnet.io//r/UsedFor', 'obj': 'eating,', 'type': 'https://conceptnet.io//c/en/eating', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('making bread requires flour', lang='en'), '_id': '2732e7d8db504be1a24cdff3ad6b9d4b', '_collection_name': 'ontologies'}),
+ 0.6584526107702858)
+(Document(page_content='https://conceptnet.io//c/en/making_bread', metadata={'sub': 'making bread', 'uri': 'https://conceptnet.io//c/en/making_bread', 'pred': 'https://conceptnet.io//r/UsedFor', 'predicate': 'https://conceptnet.io//r/UsedFor', 'obj': 'eating,', 'type': 'https://conceptnet.io//c/en/eating', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('making bread requires flour', lang='en'), '_id': '2732e7d8db504be1a24cdff3ad6b9d4b', '_collection_name': 'ontologies'}),
+ 0.6584526107702858)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/making_bread (https://conceptnet.io//c/en/making_bread)
+
+Making bread requires flour.
+What are ingredients for pizza dough?
+💭 Reformulated questions:  What ingredients are needed to make pizza dough?
+(Document(page_content='https://conceptnet.io//c/en/ingredients', metadata={'sub': 'Ingredients', 'uri': 'https://conceptnet.io//c/en/ingredients', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'compounds', 'type': 'https://conceptnet.io//c/en/compounds', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Some ingredients are sold in containers', lang='en'), '_id': 'd2473eb4881847998bea3e0b56b140d2', '_collection_name': 'ontologies'}),
+ 0.6250643530183412)
+(Document(page_content='https://conceptnet.io//c/en/ingredients', metadata={'sub': 'Ingredients', 'uri': 'https://conceptnet.io//c/en/ingredients', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'compounds', 'type': 'https://conceptnet.io//c/en/compounds', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Some ingredients are sold in containers', lang='en'), '_id': 'd2473eb4881847998bea3e0b56b140d2', '_collection_name': 'ontologies'}),
+ 0.6250643530183412)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/ingredients (https://conceptnet.io//c/en/ingredients)
+
+Ingredients are compounds. Some ingredients are sold in containers. Ingredients are mixed before cooking them.
+What is a Variational Autoencoder?
+💭 Reformulated questions:  What is a Variational Autoencoder?
+(Document(page_content='https://conceptnet.io//c/en/autoencoders/n', metadata={'sub': 'autoencoders', 'uri': 'https://conceptnet.io//c/en/autoencoders/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'autoencoder', 'type': 'https://conceptnet.io//c/en/autoencoder', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'b782cd2f147a4af480fe267d22947f9e', '_collection_name': 'ontologies'}),
+ 0.77811998101539)
+(Document(page_content='https://conceptnet.io//c/en/autoencoders/n', metadata={'sub': 'autoencoders', 'uri': 'https://conceptnet.io//c/en/autoencoders/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'autoencoder', 'type': 'https://conceptnet.io//c/en/autoencoder', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'b782cd2f147a4af480fe267d22947f9e', '_collection_name': 'ontologies'}),
+ 0.77811998101539)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/autoencoders/n (https://conceptnet.io//c/en/autoencoders/n)
+
+Autoencoders are a type of encoder that are derived from the concept of an encoder, which is related to the concept of variation. Variationality is derived from the concept of variation.
+Which loss function do you use for Variational Autoencoders?
+💭 Reformulated questions:  What is the loss function used for Variational Autoencoders?
+(Document(page_content='https://conceptnet.io//c/en/autoencoders/n', metadata={'sub': 'autoencoders', 'uri': 'https://conceptnet.io//c/en/autoencoders/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'autoencoder', 'type': 'https://conceptnet.io//c/en/autoencoder', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'b782cd2f147a4af480fe267d22947f9e', '_collection_name': 'ontologies'}),
+ 0.7510670982819925)
+(Document(page_content='https://conceptnet.io//c/en/autoencoders/n', metadata={'sub': 'autoencoders', 'uri': 'https://conceptnet.io//c/en/autoencoders/n', 'pred': 'https://conceptnet.io//r/FormOf', 'predicate': 'https://conceptnet.io//r/FormOf', 'obj': 'autoencoder', 'type': 'https://conceptnet.io//c/en/autoencoder', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': 'b782cd2f147a4af480fe267d22947f9e', '_collection_name': 'ontologies'}),
+ 0.7510670982819925)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/autoencoders/n (https://conceptnet.io//c/en/autoencoders/n)
+
+Autoencoders are derived from encoders, which are derived from variations, which are derived from regularizations. Regularizations are a form of regularization.
+Which concepts do VAEs resemble?
+💭 Reformulated questions:  What concepts are VAEs similar to?
+(Document(page_content='https://conceptnet.io//c/en/vaesite', metadata={'sub': 'vaesite', 'uri': 'https://conceptnet.io//c/en/vaesite', 'pred': 'https://conceptnet.io//r/DerivedFrom', 'predicate': 'https://conceptnet.io//r/DerivedFrom', 'obj': 'vaes', 'type': 'https://conceptnet.io//c/en/vaes', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '2ca4475508ac4b95a9bb75bbe0567b43', '_collection_name': 'ontologies'}),
+ 0.7431658348693905)
+(Document(page_content='https://conceptnet.io//c/en/vaesite', metadata={'sub': 'vaesite', 'uri': 'https://conceptnet.io//c/en/vaesite', 'pred': 'https://conceptnet.io//r/DerivedFrom', 'predicate': 'https://conceptnet.io//r/DerivedFrom', 'obj': 'vaes', 'type': 'https://conceptnet.io//c/en/vaes', 'ontology': 'all_concepts.ttl', 'surfaceText': '', '_id': '2ca4475508ac4b95a9bb75bbe0567b43', '_collection_name': 'ontologies'}),
+ 0.7431658348693905)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/vaesite (https://conceptnet.io//c/en/vaesite)
+
+A vaesite is derived from a vaes. A vacuum is located in space. Introducing is a form of introducing and is related to introducing.
+Where does the water buffalo originate from?
+💭 Reformulated questions: 
+Where is the water buffalo originally from?
+(Document(page_content='https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', metadata={'sub': 'Old World buffalo', 'uri': 'https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'bovid', 'type': 'https://conceptnet.io//c/en/bovid/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Old World buffalo is a type of bovid', lang='en'), '_id': '71422236d1ec4b238be1788248e1d683', '_collection_name': 'ontologies'}),
+ 0.6555942021281425)
+(Document(page_content='https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', metadata={'sub': 'Old World buffalo', 'uri': 'https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'bovid', 'type': 'https://conceptnet.io//c/en/bovid/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Old World buffalo is a type of bovid', lang='en'), '_id': '71422236d1ec4b238be1788248e1d683', '_collection_name': 'ontologies'}),
+ 0.6555942021281425)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal (https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal)
+
+Old World buffalo is a type of bovid. Buffalo is a synonym of Old World buffalo. Buffalo is a part of New York. Buffaloes is a form of buffalo. Buffaloes is related to buffalo.
+What is the water buffalo used for?
+💭 Reformulated questions:  What is the purpose of the water buffalo?
+(Document(page_content='https://conceptnet.io//c/en/buffalo/n/wn/animal', metadata={'sub': 'buffalo', 'uri': 'https://conceptnet.io//c/en/buffalo/n/wn/animal', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Old World buffalo', 'type': 'https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('buffalo is a synonym of Old World buffalo', lang='en'), '_id': '9abd181f704c42f18cdea80ccdebe160', '_collection_name': 'ontologies'}),
+ 0.6352831452886121)
+(Document(page_content='https://conceptnet.io//c/en/buffalo/n/wn/animal', metadata={'sub': 'buffalo', 'uri': 'https://conceptnet.io//c/en/buffalo/n/wn/animal', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Old World buffalo', 'type': 'https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('buffalo is a synonym of Old World buffalo', lang='en'), '_id': '9abd181f704c42f18cdea80ccdebe160', '_collection_name': 'ontologies'}),
+ 0.6352831452886121)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/buffalo/n/wn/animal (https://conceptnet.io//c/en/buffalo/n/wn/animal)
+
+Buffalo is a type of bovid. Buffaloes are related to buffalo and are a form of buffaloe.
+What does the water buffalo signify?
+💭 Reformulated questions:  What is the significance of the water buffalo?
+(Document(page_content='https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', metadata={'sub': 'Old World buffalo', 'uri': 'https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'bovid', 'type': 'https://conceptnet.io//c/en/bovid/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Old World buffalo is a type of bovid', lang='en'), '_id': '71422236d1ec4b238be1788248e1d683', '_collection_name': 'ontologies'}),
+ 0.6605922630958212)
+(Document(page_content='https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', metadata={'sub': 'Old World buffalo', 'uri': 'https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal', 'pred': 'https://conceptnet.io//r/IsA', 'predicate': 'https://conceptnet.io//r/IsA', 'obj': 'bovid', 'type': 'https://conceptnet.io//c/en/bovid/n/wn/animal', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Old World buffalo is a type of bovid', lang='en'), '_id': '71422236d1ec4b238be1788248e1d683', '_collection_name': 'ontologies'}),
+ 0.6605922630958212)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal (https://conceptnet.io//c/en/old_world_buffalo/n/wn/animal)
+
+Old World buffalo is a type of bovid. Buffalo is a synonym of Old World buffalo. Buffaloes are related to buffalo. Buffaloes are a form of buffalo. Buffaloes are related to buffalo.
+Where are the Marshall Islands?
+💭 Reformulated questions:  What is the location of the Marshall Islands?
+(Document(page_content='https://conceptnet.io//c/en/marshall_islands/n/wn/location', metadata={'sub': 'Marshall Islands', 'uri': 'https://conceptnet.io//c/en/marshall_islands/n/wn/location', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Micronesia', 'type': 'https://conceptnet.io//c/en/micronesia/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Marshall Islands is a part of Micronesia', lang='en'), '_id': 'c775e2eb3afe4abb8eaa31d13dc41d64', '_collection_name': 'ontologies'}),
+ 0.7937283752886652)
+(Document(page_content='https://conceptnet.io//c/en/marshall_islands/n/wn/location', metadata={'sub': 'Marshall Islands', 'uri': 'https://conceptnet.io//c/en/marshall_islands/n/wn/location', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Micronesia', 'type': 'https://conceptnet.io//c/en/micronesia/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Marshall Islands is a part of Micronesia', lang='en'), '_id': 'c775e2eb3afe4abb8eaa31d13dc41d64', '_collection_name': 'ontologies'}),
+ 0.7937283752886652)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/marshall_islands/n/wn/location (https://conceptnet.io//c/en/marshall_islands/n/wn/location)
+
+Marshall Islands is a part of Micronesia.
+Gilbert and Ellice Islands is a part of Micronesia.
+Federated States of Micronesia is a synonym of Micronesia.
+Somali peninsula is a part of Africa.
+Mariana Islands is a part of Micronesia.
+Why are the Marshall Islands significant?
+💭 Reformulated questions:  What is the significance of the Marshall Islands?
+(Document(page_content='https://conceptnet.io//c/en/marshall_islands/n/wn/location', metadata={'sub': 'Marshall Islands', 'uri': 'https://conceptnet.io//c/en/marshall_islands/n/wn/location', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Micronesia', 'type': 'https://conceptnet.io//c/en/micronesia/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Marshall Islands is a part of Micronesia', lang='en'), '_id': 'c775e2eb3afe4abb8eaa31d13dc41d64', '_collection_name': 'ontologies'}),
+ 0.7127973524565933)
+(Document(page_content='https://conceptnet.io//c/en/marshall_islands/n/wn/location', metadata={'sub': 'Marshall Islands', 'uri': 'https://conceptnet.io//c/en/marshall_islands/n/wn/location', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Micronesia', 'type': 'https://conceptnet.io//c/en/micronesia/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Marshall Islands is a part of Micronesia', lang='en'), '_id': 'c775e2eb3afe4abb8eaa31d13dc41d64', '_collection_name': 'ontologies'}),
+ 0.7127973524565933)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/marshall_islands/n/wn/location (https://conceptnet.io//c/en/marshall_islands/n/wn/location)
+
+The Marshall Islands is a part of Micronesia. South Sea Islands is a type of island. Atolls are related to atoll and are a form of atoll. Gilbert and Ellice Islands is a part of Micronesia.
+What does the economy of the Marshall Islands rely on?
+💭 Reformulated questions:  What is the main source of income for the Marshall Islands?
+(Document(page_content='https://conceptnet.io//c/en/marshall_islands/n/wn/location', metadata={'sub': 'Marshall Islands', 'uri': 'https://conceptnet.io//c/en/marshall_islands/n/wn/location', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Micronesia', 'type': 'https://conceptnet.io//c/en/micronesia/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Marshall Islands is a part of Micronesia', lang='en'), '_id': 'c775e2eb3afe4abb8eaa31d13dc41d64', '_collection_name': 'ontologies'}),
+ 0.6680997185572249)
+(Document(page_content='https://conceptnet.io//c/en/marshall_islands/n/wn/location', metadata={'sub': 'Marshall Islands', 'uri': 'https://conceptnet.io//c/en/marshall_islands/n/wn/location', 'pred': 'https://conceptnet.io//r/PartOf', 'predicate': 'https://conceptnet.io//r/PartOf', 'obj': 'Micronesia', 'type': 'https://conceptnet.io//c/en/micronesia/n/wn/location', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Marshall Islands is a part of Micronesia', lang='en'), '_id': 'c775e2eb3afe4abb8eaa31d13dc41d64', '_collection_name': 'ontologies'}),
+ 0.6680997185572249)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/marshall_islands/n/wn/location (https://conceptnet.io//c/en/marshall_islands/n/wn/location)
+
+The Marshall Islands is a part of Micronesia. South Sea Islands is a type of island. Atolls are a form of atoll and are related to atolls. Marshallese is derived from the Marshall Islands.
+Where is Tristan da Cunha?
+💭 Reformulated questions: 
+Where is Tristan da Cunha located?
+(Document(page_content='https://conceptnet.io//c/en/tristan/n/wn/middle_ages', metadata={'sub': 'Tristan', 'uri': 'https://conceptnet.io//c/en/tristan/n/wn/middle_ages', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Tristram', 'type': 'https://conceptnet.io//c/en/tristram/n/wn/middle_ages', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Tristan is a synonym of Tristram', lang='en'), '_id': '83b96b02aabf4e679f50d5a7947ca74f', '_collection_name': 'ontologies'}),
+ 0.6194694149373986)
+(Document(page_content='https://conceptnet.io//c/en/tristan/n/wn/middle_ages', metadata={'sub': 'Tristan', 'uri': 'https://conceptnet.io//c/en/tristan/n/wn/middle_ages', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Tristram', 'type': 'https://conceptnet.io//c/en/tristram/n/wn/middle_ages', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Tristan is a synonym of Tristram', lang='en'), '_id': '83b96b02aabf4e679f50d5a7947ca74f', '_collection_name': 'ontologies'}),
+ 0.6194694149373986)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/tristan/n/wn/middle_ages (https://conceptnet.io//c/en/tristan/n/wn/middle_ages)
+
+Tristan is a synonym of Tristram.
+What is Tristan da Cunha?
+💭 Reformulated questions:  Where is Tristan da Cunha located?
+(Document(page_content='https://conceptnet.io//c/en/tristan/n/wn/middle_ages', metadata={'sub': 'Tristan', 'uri': 'https://conceptnet.io//c/en/tristan/n/wn/middle_ages', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Tristram', 'type': 'https://conceptnet.io//c/en/tristram/n/wn/middle_ages', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Tristan is a synonym of Tristram', lang='en'), '_id': '83b96b02aabf4e679f50d5a7947ca74f', '_collection_name': 'ontologies'}),
+ 0.6194694149373986)
+(Document(page_content='https://conceptnet.io//c/en/tristan/n/wn/middle_ages', metadata={'sub': 'Tristan', 'uri': 'https://conceptnet.io//c/en/tristan/n/wn/middle_ages', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Tristram', 'type': 'https://conceptnet.io//c/en/tristram/n/wn/middle_ages', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Tristan is a synonym of Tristram', lang='en'), '_id': '83b96b02aabf4e679f50d5a7947ca74f', '_collection_name': 'ontologies'}),
+ 0.6194694149373986)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/tristan/n/wn/middle_ages (https://conceptnet.io//c/en/tristan/n/wn/middle_ages)
+
+Tristan is a synonym of Tristram.
+What does the economy of Tristan da Cunha rely on?
+💭 Reformulated questions:  What is the economy of Tristan da Cunha based on?
+(Document(page_content='https://conceptnet.io//c/en/tristan/n/wn/middle_ages', metadata={'sub': 'Tristan', 'uri': 'https://conceptnet.io//c/en/tristan/n/wn/middle_ages', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Tristram', 'type': 'https://conceptnet.io//c/en/tristram/n/wn/middle_ages', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Tristan is a synonym of Tristram', lang='en'), '_id': '83b96b02aabf4e679f50d5a7947ca74f', '_collection_name': 'ontologies'}),
+ 0.6178340946420836)
+(Document(page_content='https://conceptnet.io//c/en/tristan/n/wn/middle_ages', metadata={'sub': 'Tristan', 'uri': 'https://conceptnet.io//c/en/tristan/n/wn/middle_ages', 'pred': 'https://conceptnet.io//r/Synonym', 'predicate': 'https://conceptnet.io//r/Synonym', 'obj': 'Tristram', 'type': 'https://conceptnet.io//c/en/tristram/n/wn/middle_ages', 'ontology': 'all_concepts.ttl', 'surfaceText': rdflib.term.Literal('Tristan is a synonym of Tristram', lang='en'), '_id': '83b96b02aabf4e679f50d5a7947ca74f', '_collection_name': 'ontologies'}),
+ 0.6178340946420836)
+📚 Documents retrieved:
+· https://conceptnet.io//c/en/tristan/n/wn/middle_ages (https://conceptnet.io//c/en/tristan/n/wn/middle_ages)
+
+Tristan is a synonym of Tristram. Gresham's Law is used in the context of economics. Tristan is related to the round table. Tristan is related to Arthurian. Tristan is a synonym of Tristram.
